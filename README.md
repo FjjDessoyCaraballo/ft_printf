@@ -3,7 +3,7 @@
 The goal of this project is to replicate partially the function printf() from the stdio library. This version works with pointers, integers, digits, hexadecimals (upper and lowercase), strings, and characters.
 
 ## Usage:
-**MacOs Linux only**
+**MacOs / Linux only**
 - `git clone https://github.com/FjjDessoyCaraballo/ft_printf`
 - use the `int	ft_printf(const char *format, ...)` function
 
